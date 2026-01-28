@@ -3,7 +3,9 @@ MATLAB Medical Image Labeler is a specialized app within MATLAB’s Image Proces
 
 # Medical image labeler app in the (Matlab) helps you to annotate (label) medical image 
 ---> it can train, validate, test using any models 
+
 ---> task like detection,segmentation,classification 
+
 ---> Kinds of labeling are:
 1. image classification
 2. object detection
