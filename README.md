@@ -11,4 +11,6 @@ MATLAB Medical Image Labeler is a specialized app within MATLAB’s Image Proces
 2. object detection
 3. semanitic segmentation
 
----> 
+---> Image's types are support are 
+1. Dicom (CT,MRI,X-RAY,ULTRASOUND)
+2. PNG,JPG,TIFF
